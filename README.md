@@ -14,7 +14,7 @@ an interactive Power BI dashboard.
 
 ## Tools & Technologies
 - **Python** — Pandas, NumPy, Matplotlib, Seaborn
-- **Jupyter Notebook** — Analysis and EDA
+- **Jupyter Notebook/ VS Code** — Analysis and EDA
 - **Power BI** — Interactive dashboard
 - **Git** — Version control
 
